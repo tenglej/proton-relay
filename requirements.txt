@@ -1,0 +1,9 @@
+graphein>=1.7.0
+networkx>=3.0
+graphein>=1.7.0
+networkx>=3.0
+numpy
+pandas
+biopython
+matplotlib
+
